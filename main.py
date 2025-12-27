@@ -29,8 +29,8 @@ logger = logging.getLogger(__name__)
 NAME, PHOTO = range(2)
 
 # إعدادات البوت (يجب تغييرها)
-TOKEN = "ضع_توكن_البوت_هنا"
-DEVELOPER_CHAT_ID = "ضع_chat_id_المطور_هنا"
+TOKEN = "8494446795:AAHMAZFOI-KHtxSwLAxBtShQxd0c5yhnmC4"
+DEVELOPER_CHAT_ID = "7305720183"
 
 # إنشاء المجلدات إذا لم تكن موجودة
 if not os.path.exists(PHOTOS_DIR):
